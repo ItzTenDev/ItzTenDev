@@ -1,7 +1,7 @@
 # ⌘ Profile
 
 > [!WARNING]
-> This user is suspected to be a test-addict programmer who barely finishes his projectq. Thankfuly, he does not work for a Company (yet).
+> This user is suspected to be a test-addict dev who barely finishes his projects. Thankfuly, he does not work for a company (yet).
 
 ## ○‎‎ ‎ ‎‎ My Stats
 
