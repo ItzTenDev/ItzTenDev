@@ -1,4 +1,4 @@
-:# ⌘ Profile
+# ⌘ Profile
 
 I like writing stuff and then it always either go bip boop bip, or, most of the time, it goes `SyntaxError: ; expected`
 
