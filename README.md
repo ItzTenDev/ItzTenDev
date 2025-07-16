@@ -1,4 +1,6 @@
-# ⌘ Profile
+:# ⌘ Profile
+
+I like writing stuff and then it always either go bip boop bip, or, most of the time, it goes `SyntaxError: ; expected`
 
 > [!TIP]
 > This user is suspected to be a test-addict dev who barely finishes his projects. Thankfuly, he does not work for a company (yet).
